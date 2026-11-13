@@ -1,0 +1,1 @@
+Saved `icon_1024.png`, but the native tool returned 1254×1254 despite requesting 1024×1024. I preserved it without resizing.
